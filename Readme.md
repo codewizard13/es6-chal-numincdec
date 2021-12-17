@@ -22,32 +22,34 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <div align="center">
   <a href="https://erichepperle.com">
     <img src="https://erichepperle.com/wp-content/uploads/2021/11/ehd_logo_20211109_EHW_Long_LogoMakr_01-200x29.png" alt="Logo">
   </a>
 
 
-<h1 align="center">JavaScript ES6 Demo: Add element to DOM (prepend)</h1>
+<h1 align="center">EHW Code Challenge: ES6 Increment/Decrement Number</h1>
 
 <section>
   <p align="center">
     This project is a demonstration of ES6 and modern JavaScript principles.
-    This is created as a "proof project" and specifically demonstates<br>
-    <strong>Eric L. Hepperle's</strong> JavaScript knowledge and skills.
+    I created as answer to code challenge with these requirements:<br>
+      Build form with plus and minus buttons that increment/decrement the number displayed in a field by one.<br>    
+    This challenge demonstrates <strong>Eric L. Hepperle's</strong> JavaScript knowledge and skills and ability to use event listeners.
     <br />
-    <a href="https://github.com/codewizard13/es6-demo-prepend-dom"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/codewizard13/es6-demo-prepend-dom">View Demo</a>
+    <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec">View Demo</a>
     ·
-    <a href="https://github.com/codewizard13/es6-demo-prepend-dom/issues">Report Bug</a>
+    <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/issues">Report Bug</a>
     ·
-    <a href="https://github.com/codewizard13/es6-demo-prepend-dom/issues">Request Feature</a>
+    <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/issues">Request Feature</a>
   </p>
-  
+
 <!-- TAGS -->
-**TAGS:** `Eric L. Hepperle`   `Eric Hepperle`   `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample`
+**TAGS:** `Eric L. Hepperle`   `Eric Hepperle`   `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample` `addEventListener` `increment` `decrement`
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -76,30 +78,32 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+| Creator:         | Eric Hepperle                                                |
+| ---------------- | ------------------------------------------------------------ |
+| Project Type:    | Code Challenge                                               |
+| Topic:           | Employment                                                   |
+| Subtopics:       | *Job Hunt*, *Interview Questions*, *Coding Interviews*, *JavaScript*, *ES6* |
+| Date Created:    | 2021-12-17                                                   |
+| Date Modified:   | --                                                           |
+| Project Version: | 1.00                                                         |
+
 ## JavaScript & Programming Concepts Demonstrated
-* Create JavaScript objects
-* Array of objects
-* Use `var`, `const`, `let`
-* Create DOM elements with `document.createElement()`
-* Set element ID property
-* Create text node with `document.createTextNode()`
-* Add text node to element with `appendChild()`
-* Store JSON object as string with `JSON.stringify()`
-* Add element to top of page with `document.body.prepend()`
-* Select single element with `document.querySelector()`
-* Concatenate output with `+=`
-* Create JavaScript functions
-* Pass arguments to functions
-* Get indexes as array for array of objects with `Object.keys()`
-* Output to console with `console.log()`
-* Loop through array with `for loop`
+* Forms
+* ES6
+* `addEventListener()`
+* Simple Web App creation
+
+---
 
 Thanks for checking out my demo!
+
+---
 
 ### Built With
 
@@ -107,106 +111,50 @@ Thanks for checking out my demo!
 * [JavaScript ES6](https://exploringjs.com/es6/)
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Purpose:
 
-### Prerequisites
+**<u>Code Challenge:</u>** Build form with plus and minus buttons that increment/decrement the number displayed in a field by one.
+
+## Usage:
+
+Launch and use. Click "-" to remove one, "+" to add one.
+
+## Requires:
 
 * Browser
-* Web server supporting PHP 7.4
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-<img src="https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_1280.png" alt="This Readme is Under Construction" style="zoom:50%;" />
-  
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/codewizard13/es6-demo-prepend-dom.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-Launch in browser and open developer console (F12).
-
-<!-- ROADMAP -->
-## Roadmap
-
-[[Coming Soon!]]
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/codewizard13/es6-demo-prepend-dom/issues) for a full list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Eric Hepperle - [LinkedIn][linkedin-url]
 
-Project Link: [https://github.com/codewizard13/es6-demo-prepend-dom](https://github.com/codewizard13/es6-demo-prepend-dom)
-
-
+Project Link: [https://github.com/codewizard13/2021-ehw-es6-chal-numincdec](https://github.com/codewizard13/2021-ehw-es6-chal-numincdec)
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* []()
-* []()
-* []()
-
-
+* Father God, The Lord Jesus Christ, and the Holy Spirit for opening doors where there were once only walls.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/codewizard13/es6-demo-prepend-dom.svg?style=for-the-badge
-[contributors-url]: https://github.com/codewizard13/es6-demo-prepend-dom/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/codewizard13/es6-demo-prepend-dom.svg?style=for-the-badge
-[forks-url]: https://github.com/codewizard13/es6-demo-prepend-dom/network/members
-[stars-shield]: https://img.shields.io/github/stars/codewizard13/es6-demo-prepend-dom.svg?style=for-the-badge
-[stars-url]: https://github.com/codewizard13/es6-demo-prepend-dom/stargazers
-[issues-shield]: https://img.shields.io/github/issues/codewizard13/es6-demo-prepend-dom.svg?style=for-the-badge
-[issues-url]: https://github.com/codewizard13/es6-demo-prepend-dom/issues
-[license-shield]: https://img.shields.io/github/license/codewizard13/es6-demo-prepend-dom.svg?style=for-the-badge
-[license-url]: https://github.com/codewizard13/es6-demo-prepend-dom/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
+[contributors-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
+[forks-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/network/members
+[stars-shield]: https://img.shields.io/github/stars/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
+[stars-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
+[issues-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/issues
+[license-shield]: https://img.shields.io/github/license/codewizard13/2021-ehw-es6-chal-numincdec.svg?style=for-the-badge
+[license-url]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/erichepperle
-[product-screenshot]: https://github.com/codewizard13/es6-demo-prepend-dom/blob/master/pix/screenshot.jpg
+[product-screenshot]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/blob/master/pix/screenshot.jpg

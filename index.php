@@ -48,22 +48,7 @@ Tags:
 
 <link rel="stylesheet" href="style.css">
 
-<style>
-#wrapper {
-    margin: 0 auto;
-    background: aliceblue;
-    max-width: 1024px;
-    border: solid 1px #efefef;
-    padding: 1em;
-}
-main {
-    background: #fffbe3;
-    min-height: 2em;
-    border: solid gray 2px;
-
-}
-
-</style>
+<style></style>
 
 </head>
 

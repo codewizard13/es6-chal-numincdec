@@ -62,9 +62,7 @@ Tags:
 
 <main>
 
-
-
-<h2>Hello World!</h2>
+<?php require_once('inc/main.php'); ?>
 
 <div class="container">
 <!--

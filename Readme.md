@@ -41,7 +41,7 @@
     <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec">View Demo</a>
+    <a href="https://erichepperle.com/sub/code-challenge/2021-ehw-es6-chal-numincdec/">View Demo</a>
     ·
     <a href="https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/issues">Report Bug</a>
     ·
@@ -82,7 +82,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]][fiddle-url]
+**[JsFiddle.net][fiddle-url]**
+
+[![JSFiddle Screenshot][product-screenshot]][fiddle-url]
 
 | Creator:         | Eric Hepperle                                                |
 | ---------------- | ------------------------------------------------------------ |

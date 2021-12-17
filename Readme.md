@@ -82,7 +82,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](fiddle-url)
 
 | Creator:         | Eric Hepperle                                                |
 | ---------------- | ------------------------------------------------------------ |
@@ -158,3 +158,4 @@ Project Link: [https://github.com/codewizard13/2021-ehw-es6-chal-numincdec](http
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/erichepperle
 [product-screenshot]: https://github.com/codewizard13/2021-ehw-es6-chal-numincdec/blob/master/pix/screenshot_fiddle.jpg
+[fiddle-url]: https://jsfiddle.net/codeslayer2010/hmxrq7uj

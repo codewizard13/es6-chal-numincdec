@@ -2,16 +2,16 @@
 
 ### EHW Code Challenge: ZenBusiness - ES6 Incr/Decr Number
 
-| Creator:         | Eric Hepperle                                          |      |
-| ---------------- | ------------------------------------------------------ | ---- |
-| Project Type:    | Code Challenge                                         |      |
-| Topic:           | Employment                                             |      |
-| Subtopics:       | *Job Hunt*, *Interview Questions*, *Coding Interviews* |      |
-| This File Name:  | **EHW_NOTES.md**                                       |      |
-| Date Created:    | 2021-12-17                                             |      |
-| Date Modified:   | --                                                     |      |
-| Project Version: | 1.00                                                   |      |
-| Notes Version:   | N.1.00                                                 |      |
+| Creator:         | Eric Hepperle                                          |
+| ---------------- | ------------------------------------------------------ |
+| Project Type:    | Code Challenge                                         |
+| Topic:           | Employment                                             |
+| Subtopics:       | *Job Hunt*, *Interview Questions*, *Coding Interviews* |
+| This File Name:  | **EHW_NOTES.md**                                       |
+| Date Created:    | 2021-12-17                                             |
+| Date Modified:   | --                                                     |
+| Project Version: | 1.00                                                   |
+| Notes Version:   | N.1.00                                                 |
 
 ## Purpose:
 

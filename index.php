@@ -64,10 +64,6 @@ Tags:
 
 <?php require_once('inc/main.php'); ?>
 
-
-
-
-
 </main>
 
 </div><!-- /wrappper -->

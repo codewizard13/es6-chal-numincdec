@@ -35,3 +35,19 @@ main {
 .counter {
   text-align: center;
 }
+
+/*  INSTRUCTIONS
+-------------------------------------------*/
+.instructions ol,
+.instructions ul {
+    padding-left: 1.3rem;
+}
+.instructions ol > li {
+    margin-bottom: .3rem;
+}
+.instructions ul {
+    /* padding-top: .3rem; */
+}
+.instructions hr {
+    margin-bottom: 1em;
+}

@@ -64,34 +64,7 @@ Tags:
 
 <?php require_once('inc/main.php'); ?>
 
-<div class="container">
-<!--
-1. span full height and width
-2. 20 px padding
-3. 5px border red
 
--->
-
-<div class="form">
-<!--
-1. center vertically and horiz
-2. 2px blue bord
-3. 15px padding
--->
-<button class="minus" id="minus">
--
-</button>
-
-<input class="counter" id="counter" >
-
-
-<button class="plus" id="plus">
-+
-</button>
-
-</div><!--/form -->
-
-</div><!--/container -->
 
 
 

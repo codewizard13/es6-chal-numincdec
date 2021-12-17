@@ -82,7 +82,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](fiddle-url)
+[![Product Name Screen Shot][product-screenshot]][fiddle-url]
 
 | Creator:         | Eric Hepperle                                                |
 | ---------------- | ------------------------------------------------------------ |

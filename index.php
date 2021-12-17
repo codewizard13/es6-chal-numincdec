@@ -46,7 +46,7 @@ Tags:
 <title>Eric's PC Dashboard (2020-12-19)</title>
 
 
-<link rel="stylesheet" href="/">
+<link rel="stylesheet" href="style.css">
 
 <style>
 #wrapper {
@@ -82,6 +82,35 @@ main {
 
 <h2>Hello World!</h2>
 
+<div class="container">
+<!--
+1. span full height and width
+2. 20 px padding
+3. 5px border red
+
+-->
+
+<div class="form">
+<!--
+1. center vertically and horiz
+2. 2px blue bord
+3. 15px padding
+-->
+<button class="minus" id="minus">
+-
+</button>
+
+<input class="counter" id="counter" >
+
+
+<button class="plus" id="plus">
++
+</button>
+
+</div><!--/form -->
+
+</div><!--/container -->
+
 
 
 </main>
@@ -98,6 +127,8 @@ main {
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+<script src="app.js"></script>
 
 </body>
 </html>

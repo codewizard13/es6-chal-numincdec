@@ -9,7 +9,7 @@ main {
     background: #fffbe3;
     min-height: 2em;
     border: solid gray 2px;
-
+    padding: 1rem;
 }
 
 .container {

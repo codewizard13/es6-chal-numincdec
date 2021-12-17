@@ -1,5 +1,5 @@
 <?php // Define vars:
-$page_title = "Code Challenge: Red8 PHP_01";
+$page_title = "EHW Code Challenge: ZenBusiness - ES6 Incr/Decr Number";
 
 ?>
 

@@ -63,7 +63,7 @@ Tags:
 <div id="wrapper" class="container-fluid">
 
 <div id="ehw-top-head">
-    <div id="header-img"><img src="https://yt3.ggpht.com/ytc/AKedOLRVngNMf4lFzGGAAiwXY6FsP2RoDWkayiS8n_QT=s900-c-k-c0x00ffffff-no-rj" alt="eric hepperle designs logo" /></div>
+    <div id="header-img"><img src="pix/logo-eric-hepperle-designs.png" alt="eric hepperle designs logo" /></div>
     <h2><?php echo $page_title; ?></h2>
 </div><!-- /ehw-top-head div -->
 

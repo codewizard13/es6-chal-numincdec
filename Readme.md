@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://erichepperle.com">
-    <img src="https://erichepperle.com/wp-content/uploads/2021/11/ehd_logo_20211109_EHW_Long_LogoMakr_01-200x29.png" alt="Logo">
+    <img src="pix/ehd-logo-site-ehw-2022-01.png" alt="Logo">
   </a>
 
 

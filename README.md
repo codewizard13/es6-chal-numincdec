@@ -134,7 +134,7 @@ Launch and use. Click "-" to remove one, "+" to add one.
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU GPLv3 License. See [LICENSE.md](LICENSE.md) for more information.
 
 <!-- CONTACT -->
 

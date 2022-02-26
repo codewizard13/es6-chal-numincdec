@@ -50,7 +50,7 @@
   </p>
 
 <!-- TAGS -->
-**TAGS:** `Eric L. Hepperle`   `Eric Hepperle`   `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample` `addEventListener` `increment` `decrement`
+**TAGS:** `Vanilla JavaScript`   `ES6`   `DOM Manipulation`   `Demo`   `Code Sample` `addEventListener` `increment` `decrement`
 </div>
 
 <!-- TABLE OF CONTENTS -->

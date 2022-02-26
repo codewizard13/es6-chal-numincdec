@@ -93,8 +93,8 @@
 | Topic:           | Employment                                                   |
 | Subtopics:       | *Job Hunt*, *Interview Questions*, *Coding Interviews*, *JavaScript*, *ES6* |
 | Date Created:    | 2021-12-17                                                   |
-| Date Modified:   | --                                                           |
-| Project Version: | 1.00                                                         |
+| Date Modified:   | 2022-02-26                                                           |
+| Project Version: | 1.01                                                         |
 
 ## JavaScript & Programming Concepts Demonstrated
 * Forms
